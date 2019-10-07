@@ -4,9 +4,9 @@
 
 ```ssh
 server / {
-listen: 80
-location {
+  listen: 80
+  location {
 
-}
+  }
 }
 ```
